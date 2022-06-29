@@ -1,14 +1,6 @@
 ## This is a README file that shows the instructions for product_analysis.py
-#### step1: install dependencies 
-pip3 install requests
-
-#### step2: execute the solution
-python3 solution.py
-
-#### step3: execute the test case
-python3 test.py
-
 ## Analysis Requirement
+
 Query the following API that returns a randomized list of products in JSON format.
 https://www.beautylish.com/rest/interview-product/list
 
