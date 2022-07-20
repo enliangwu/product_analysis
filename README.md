@@ -3,7 +3,6 @@
 
 
 Query the following API that returns a randomized list of products in JSON format.
-
 https://www.beautylish.com/rest/interview-product/list
 
 1. Display a list of products including only the brand name, product name, and price. 
